@@ -1,0 +1,7 @@
+name: Kingdom
+version: '${project.version}'
+main: de.cplaiz.kingdom.KingdomMC
+api-version: 1.18
+load: STARTUP
+authors: [ CPlaiz, Legionaer753 ]
+description: Kingdom in Minecraft
